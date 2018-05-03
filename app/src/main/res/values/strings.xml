@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DriveOnRoute</string>
+    <string name="title_activity_maps">Drive on Route of Direction</string>
+    <string name="google_maps_key">YOUR Google Map Api Key</string>
+</resources>
